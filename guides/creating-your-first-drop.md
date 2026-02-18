@@ -8,6 +8,7 @@ author:
 tags: ["drops", "how-to"]
 category: "Getting Started"
 order: 2
+emoji: "\U0001F4A7"
 published: true
 ---
 

@@ -8,6 +8,7 @@ author:
 tags: ["getting started", "setup"]
 category: "Getting Started"
 order: 1
+emoji: "\U0001F680"
 published: true
 ---
 
