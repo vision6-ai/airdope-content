@@ -25,6 +25,144 @@
       "file": "guides/creating-your-first-drop.md",
       "date": "2026-02-17",
       "published": true
+    },
+    {
+      "slug": "edit-your-profile",
+      "file": "guides/edit-your-profile.md",
+      "date": "2026-02-18",
+      "published": true
+    },
+    {
+      "slug": "invite-your-team",
+      "file": "guides/invite-your-team.md",
+      "date": "2026-02-18",
+      "published": true
+    },
+    {
+      "slug": "setup-wallet-pass",
+      "file": "guides/setup-wallet-pass.md",
+      "date": "2026-02-18",
+      "published": true
+    },
+    {
+      "slug": "blueprint-music",
+      "file": "guides/blueprint-music.md",
+      "date": "2026-02-18",
+      "published": true
+    },
+    {
+      "slug": "blueprint-tour",
+      "file": "guides/blueprint-tour.md",
+      "date": "2026-02-18",
+      "published": true
+    },
+    {
+      "slug": "blueprint-merch",
+      "file": "guides/blueprint-merch.md",
+      "date": "2026-02-18",
+      "published": true
+    },
+    {
+      "slug": "blueprint-vip",
+      "file": "guides/blueprint-vip.md",
+      "date": "2026-02-18",
+      "published": true
+    },
+    {
+      "slug": "message-your-fans",
+      "file": "guides/message-your-fans.md",
+      "date": "2026-02-18",
+      "published": true
+    },
+    {
+      "slug": "fan-profiles",
+      "file": "guides/fan-profiles.md",
+      "date": "2026-02-18",
+      "published": true
+    },
+    {
+      "slug": "instagram-integration",
+      "file": "guides/instagram-integration.md",
+      "date": "2026-02-18",
+      "published": true
+    },
+    {
+      "slug": "get-fans-social-media",
+      "file": "guides/get-fans-social-media.md",
+      "date": "2026-02-18",
+      "published": true
+    },
+    {
+      "slug": "import-contacts",
+      "file": "guides/import-contacts.md",
+      "date": "2026-02-18",
+      "published": true
+    },
+    {
+      "slug": "embed-on-website",
+      "file": "guides/embed-on-website.md",
+      "date": "2026-02-18",
+      "published": true
+    },
+    {
+      "slug": "advanced-segmentation",
+      "file": "guides/advanced-segmentation.md",
+      "date": "2026-02-18",
+      "published": true
+    },
+    {
+      "slug": "ai-agents-automation",
+      "file": "guides/ai-agents-automation.md",
+      "date": "2026-02-18",
+      "published": true
+    },
+    {
+      "slug": "analytics-deep-dive",
+      "file": "guides/analytics-deep-dive.md",
+      "date": "2026-02-18",
+      "published": true
+    },
+    {
+      "slug": "case-study-indie-artist",
+      "file": "guides/case-study-indie-artist.md",
+      "date": "2026-02-18",
+      "published": true
+    },
+    {
+      "slug": "case-study-venue",
+      "file": "guides/case-study-venue.md",
+      "date": "2026-02-18",
+      "published": true
+    },
+    {
+      "slug": "pricing-plans-explained",
+      "file": "guides/pricing-plans-explained.md",
+      "date": "2026-02-18",
+      "published": true
+    },
+    {
+      "slug": "messaging-credits",
+      "file": "guides/messaging-credits.md",
+      "date": "2026-02-18",
+      "published": true
+    },
+    {
+      "slug": "api-getting-started",
+      "file": "guides/api-getting-started.md",
+      "date": "2026-02-18",
+      "published": true
+    },
+    {
+      "slug": "webhooks",
+      "file": "guides/webhooks.md",
+      "date": "2026-02-18",
+      "published": true
+    },
+    {
+      "slug": "custom-integrations",
+      "file": "guides/custom-integrations.md",
+      "date": "2026-02-18",
+      "published": true
     }
   ]
 }

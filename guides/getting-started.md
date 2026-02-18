@@ -6,9 +6,9 @@ date: "2026-02-18"
 author:
   name: "Airdope Team"
 tags: ["getting started", "setup"]
-category: "Getting Started"
+category: "Get Started"
 order: 1
-emoji: "\U0001F680"
+emoji: "🚀"
 published: true
 ---
 
