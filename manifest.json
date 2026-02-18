@@ -1,0 +1,30 @@
+{
+  "blog": [
+    {
+      "slug": "welcome-to-airdope",
+      "file": "blog/welcome-to-airdope.md",
+      "date": "2026-02-18",
+      "published": true
+    },
+    {
+      "slug": "fan-engagement-strategies-2026",
+      "file": "blog/fan-engagement-strategies-2026.md",
+      "date": "2026-02-15",
+      "published": true
+    }
+  ],
+  "guides": [
+    {
+      "slug": "getting-started",
+      "file": "guides/getting-started.md",
+      "date": "2026-02-18",
+      "published": true
+    },
+    {
+      "slug": "creating-your-first-drop",
+      "file": "guides/creating-your-first-drop.md",
+      "date": "2026-02-17",
+      "published": true
+    }
+  ]
+}
